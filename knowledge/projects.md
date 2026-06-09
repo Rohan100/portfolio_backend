@@ -1,49 +1,85 @@
 # Projects
 
-## PortfolioBot
-**Tech Stack:** Python, FastAPI, Groq API (LLaMA 3.3), Next.js, Tailwind CSS
+## Portfolio AI Chatbot
 
-An AI-powered chatbot that acts as Rohan's digital representative on his portfolio website.
-Visitors can ask questions about his skills, experience, and projects in natural language.
+**Tech Stack:** Python, FastAPI, Groq API, Next.js, Tailwind CSS
 
-- Supports streaming responses via Server-Sent Events
-- Built with a swappable LLM architecture (Groq → OpenAI → Gemini)
-- Deployed on Railway; frontend on Vercel
-- GitHub: https://github.com/RohanNagare/portfoliobot
+An AI-powered chatbot integrated into my portfolio website that acts as my digital representative. Visitors can ask questions about my skills, projects, education, and experience in natural language.
 
----
+### Features
 
-## TaskFlow
-**Tech Stack:** Next.js 14, Node.js, PostgreSQL, Prisma, Redis, Docker
-
-A full-stack task management platform for teams, inspired by Linear and Notion.
-
-- Real-time updates via WebSockets
-- Role-based access control (RBAC)
-- Drag-and-drop Kanban board
-- 500+ active users in beta
-- GitHub: https://github.com/RohanNagare/taskflow
+* Streaming responses using Server-Sent Events (SSE)
+* Markdown-based knowledge base
+* Conversation history support
+* Modular architecture for multiple LLM providers
+* Responsive chat interface
 
 ---
 
-## ShopSense
-**Tech Stack:** React, FastAPI, MongoDB, OpenAI API, Stripe
+## Code Context Navigator
 
-An AI-powered e-commerce recommendation engine. Users describe what they're looking for
-in natural language and ShopSense surfaces relevant products.
+**Tech Stack:** TypeScript, VS Code API, D3.js
 
-- Integrated with Stripe for checkout
-- Achieved 38% improvement in click-through rates vs. traditional search
-- Featured in ProductHunt's "Products of the Week"
-- GitHub: https://github.com/RohanNagare/shopsense
+A VS Code extension that visualizes relationships between files and functions as interactive graphs, helping developers understand large codebases more efficiently.
+
+### Features
+
+* Interactive dependency visualization
+* Code relationship analysis
+* Graph-based navigation
 
 ---
 
-## DevMetrics
-**Tech Stack:** Go, PostgreSQL, Grafana, Docker, GitHub Actions
+## Multiplayer Battleship Game
 
-A developer productivity dashboard that aggregates GitHub, Jira, and CI/CD metrics.
+**Tech Stack:** React, Node.js, Socket.IO
 
-- Processes 10,000+ events/day with sub-100ms query times
-- Deployed as a self-hosted Docker Compose stack
-- GitHub: https://github.com/RohanNagare/devmetrics
+A real-time multiplayer Battleship game where players can compete with each other over the network.
+
+### Features
+
+* Real-time communication using WebSockets
+* Multiplayer gameplay
+* Interactive game board
+* Dynamic state synchronization
+
+---
+
+## Tour Packaging Website
+
+**Tech Stack:** React, FastAPI, PostgreSQL
+
+A web application for managing and organizing tour packages.
+
+### Features
+
+* Package management system
+* Admin dashboard
+* REST APIs
+
+---
+
+## Community Safety Map
+
+**Tech Stack:** JavaScript, Maps API
+
+A hackathon project designed to help users visualize and share information related to neighborhood safety.
+
+### Features
+
+* Interactive map interface
+* Location-based information
+
+---
+
+## Academic Project Platform
+
+**Tech Stack:** React, FastAPI, Python
+
+A platform aimed at helping college students create and manage academic projects.
+
+### Features
+
+* Project organization
+* Resource management
+* Scalable backend architecture

@@ -2,28 +2,45 @@
 
 ## Get in Touch
 
-Rohan is always happy to connect — whether it's about a job opportunity, freelance project,
-open-source collaboration, or just a chat about tech.
+Rohan Nagare is always happy to connect with fellow developers, recruiters, and collaborators. Whether it's discussing a job opportunity, a freelance project, an interesting idea, or simply talking about technology, feel free to reach out.
 
 ## Contact Details
 
-- **Email:** Rohan.Nagare.dev@gmail.com
-- **LinkedIn:** https://linkedin.com/in/RohanNagaredev
-- **GitHub:** https://github.com/RohanNagare
-- **Portfolio:** https://RohanNagare.dev
-- **Twitter / X:** https://x.com/RohanNagaredev
+* **Email:** [rohannagare8355@gmail.com](mailto:rohannagare8355@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/rohan-nagare-4078ab212/
+* **GitHub:** https://github.com/Rohan100/
+* **Portfolio:** https://rohannagare.vercel.app/
 
 ## Response Time
 
-Rohan typically responds to emails within 24–48 hours on business days.
+Rohan typically responds to emails and LinkedIn messages within 24–48 hours.
 
 ## Availability
 
-- Open to **full-time** Senior Full-Stack Engineer roles (remote or hybrid, San Francisco Bay Area)
-- Available for **freelance** projects starting Q3 2025
-- Not currently available for internship supervision
+* Open to **Software Engineer** and **Full-Stack Developer** opportunities.
+* Interested in projects involving **Python, FastAPI, React, Next.js, and AI applications**.
+* Available for freelance work and technical collaborations.
+* Open to contributing to innovative products and developer tools.
 
 ## Preferred Contact Method
 
-For professional enquiries: **Email or LinkedIn DM**
-For quick questions or collaborations: **GitHub Issues / Discussions on relevant repos**
+### For Professional Opportunities
+
+* Email
+* LinkedIn
+
+### For Technical Discussions and Collaborations
+
+* GitHub
+* Email
+
+## Areas of Interest
+
+Rohan enjoys discussing topics such as:
+
+* Full-Stack Web Development
+* Agentic AI and Machine Learning
+* System Design and Software Architecture
+* Developer Tools and Productivity Software
+* Open Source Projects
+* Startup Ideas and Product Development

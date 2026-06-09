@@ -1,33 +1,78 @@
 # Experience
 
-## Senior Full-Stack Engineer
-**Acme Corp** · San Francisco, CA (Hybrid)
-*Jan 2023 – Present*
+## Software Trainee
 
-- Led the migration of a monolithic Rails app to a Next.js + FastAPI microservices architecture, reducing P95 latency by 42%.
-- Built an internal AI copilot using the OpenAI API and LangChain, saving engineers ~2 hours/week on code reviews.
-- Mentored 3 junior engineers; conducted weekly architecture review sessions.
-- Owned the CI/CD pipeline (GitHub Actions + Docker + AWS ECS), achieving 99.9% deployment success rate.
-- Tech: Next.js, FastAPI, PostgreSQL, Redis, AWS, Docker, GitHub Actions
+**P99soft** · India
+*April 2026 – Present*
 
----
+* Working as a Software Trainee and contributing to the development and maintenance of web applications.
+* Gaining practical experience in software engineering, backend development, and modern development workflows.
+* Collaborating with team members to implement features and solve technical problems.
+* Continuously improving skills in full-stack development and software architecture.
 
-## Full-Stack Engineer
-**Brightspark Technologies** · Remote
-*Jun 2021 – Dec 2022*
+### Technologies
 
-- Developed a real-time collaboration feature for a SaaS product (WebSockets + Redis pub/sub), growing DAU by 30%.
-- Redesigned the checkout flow with Stripe, reducing cart abandonment by 18%.
-- Wrote 85%+ test coverage across backend APIs (pytest) and frontend components (Jest/RTL).
-- Tech: React, Node.js, Express, MongoDB, Redis, Stripe, Docker
+* Python
+* FastAPI
+* React
+* Next.js
+* REST APIs
+* Git
 
 ---
 
-## Junior Software Engineer
-**CodeCraft Agency** · Berkeley, CA
-*Jul 2020 – May 2021*
+## Frontend Developer
 
-- Built custom e-commerce and landing page solutions for 10+ clients using React and Django.
-- Integrated third-party APIs (Mailchimp, Twilio, HubSpot) for marketing automation workflows.
-- Participated in daily standups, sprint planning, and retrospectives (Agile/Scrum).
-- Tech: React, Django, PostgreSQL, Heroku
+**Softdef** · Remote
+*November 2025 – March 2026*
+
+* Worked on frontend development tasks for web applications.
+* Built responsive and user-friendly interfaces using modern frontend technologies.
+* Collaborated remotely with the development team to deliver features and improvements.
+* Focused on creating clean and maintainable UI components.
+
+### Technologies
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* JavaScript
+
+---
+
+## Full-Stack Developer
+
+**RotternGrapes** · Nashik, India
+*September 2024 – March 2025*
+
+* Worked on both frontend and backend development for web applications.
+* Developed and maintained APIs and user interfaces.
+* Participated in feature development and bug fixing.
+* Contributed to improving application performance and usability.
+* Collaborated with team members throughout the development lifecycle.
+
+### Technologies
+
+* React
+* Next.js
+* FastAPI
+* Python
+* Node.js
+* SQL
+* Git
+
+---
+
+## Professional Growth
+
+Through these roles, Rohan has gained experience in:
+
+* Full-Stack Web Development
+* Frontend Development
+* Backend API Development
+* Modern JavaScript and TypeScript Ecosystem
+* Python and FastAPI
+* React and Next.js
+* Git and Version Control
+* Team Collaboration and Agile Development Practices

@@ -1,25 +1,65 @@
 # Education
 
-## B.Sc. in Computer Science
-**University of California, Berkeley**
-Graduated: May 2020 | GPA: 3.8 / 4.0
+## Bachelor of Engineering (B.E.) in Information Technology
+
+**2023 – 2026**
+
+Rohan Nagare pursued a Bachelor of Engineering in Information Technology, building a strong foundation in software engineering, databases, machine learning, distributed systems, and modern web technologies.
 
 ### Relevant Coursework
-- Data Structures & Algorithms
-- Operating Systems
-- Distributed Systems
-- Database Systems
-- Machine Learning (CS189)
-- Software Engineering (CS169)
+
+* Data Structures and Algorithms
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* Software Engineering
+* Machine Learning
+* Distributed Systems
+* Web Technologies
+* Cloud Computing
 
 ### Highlights
-- Dean's List — 3 consecutive semesters
-- Teaching Assistant for CS61A (Structure and Interpretation of Computer Programs)
-- Thesis: "Optimising Latency in Distributed Microservice Architectures Using Adaptive Load Balancing"
+
+* Developed multiple full-stack web applications and APIs.
+* Participated in hackathons and academic projects.
+* Built projects involving React, Next.js, FastAPI, Python, and machine learning.
+* Focused on improving problem-solving and software engineering skills.
 
 ---
 
-## Certifications
-- **AWS Certified Solutions Architect – Associate** (2023)
-- **Google Cloud Professional Data Engineer** (2022)
-- **Meta React Developer Certificate** (2021)
+## Diploma in Computer Technology
+
+**2020 – 2023**
+
+Rohan completed a Diploma in Computer Technology, where he gained practical experience in programming fundamentals and computer science concepts.
+
+### Relevant Coursework
+
+* Programming Fundamentals
+* Object-Oriented Programming
+* Data Structures
+* Database Management Systems
+* Computer Networks
+* Operating Systems
+* Web Development
+
+### Highlights
+
+* Built several academic and personal projects.
+* Developed an interest in full-stack development and modern software technologies.
+* Established a strong foundation in programming and software design.
+
+---
+
+## Areas of Continuous Learning
+
+Rohan actively learns and explores technologies and concepts related to:
+
+* Full-Stack Development
+* Python and FastAPI
+* React and Next.js
+* Machine Learning and AI Applications
+* Agentic AI
+* System Design and Scalable Architectures
+* Developer Tools and Productivity Software
+* Cloud Technologies and DevOps Practices
