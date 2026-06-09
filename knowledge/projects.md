@@ -3,13 +3,13 @@
 ## PortfolioBot
 **Tech Stack:** Python, FastAPI, Groq API (LLaMA 3.3), Next.js, Tailwind CSS
 
-An AI-powered chatbot that acts as Alex's digital representative on his portfolio website.
+An AI-powered chatbot that acts as Rohan's digital representative on his portfolio website.
 Visitors can ask questions about his skills, experience, and projects in natural language.
 
 - Supports streaming responses via Server-Sent Events
 - Built with a swappable LLM architecture (Groq → OpenAI → Gemini)
 - Deployed on Railway; frontend on Vercel
-- GitHub: https://github.com/alexjohnson/portfoliobot
+- GitHub: https://github.com/RohanNagare/portfoliobot
 
 ---
 
@@ -22,7 +22,7 @@ A full-stack task management platform for teams, inspired by Linear and Notion.
 - Role-based access control (RBAC)
 - Drag-and-drop Kanban board
 - 500+ active users in beta
-- GitHub: https://github.com/alexjohnson/taskflow
+- GitHub: https://github.com/RohanNagare/taskflow
 
 ---
 
@@ -35,7 +35,7 @@ in natural language and ShopSense surfaces relevant products.
 - Integrated with Stripe for checkout
 - Achieved 38% improvement in click-through rates vs. traditional search
 - Featured in ProductHunt's "Products of the Week"
-- GitHub: https://github.com/alexjohnson/shopsense
+- GitHub: https://github.com/RohanNagare/shopsense
 
 ---
 
@@ -46,4 +46,4 @@ A developer productivity dashboard that aggregates GitHub, Jira, and CI/CD metri
 
 - Processes 10,000+ events/day with sub-100ms query times
 - Deployed as a self-hosted Docker Compose stack
-- GitHub: https://github.com/alexjohnson/devmetrics
+- GitHub: https://github.com/RohanNagare/devmetrics

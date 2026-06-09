@@ -2,20 +2,20 @@
 
 ## Get in Touch
 
-Alex is always happy to connect — whether it's about a job opportunity, freelance project,
+Rohan is always happy to connect — whether it's about a job opportunity, freelance project,
 open-source collaboration, or just a chat about tech.
 
 ## Contact Details
 
-- **Email:** alex.johnson.dev@gmail.com
-- **LinkedIn:** https://linkedin.com/in/alexjohnsondev
-- **GitHub:** https://github.com/alexjohnson
-- **Portfolio:** https://alexjohnson.dev
-- **Twitter / X:** https://x.com/alexjohnsondev
+- **Email:** Rohan.Nagare.dev@gmail.com
+- **LinkedIn:** https://linkedin.com/in/RohanNagaredev
+- **GitHub:** https://github.com/RohanNagare
+- **Portfolio:** https://RohanNagare.dev
+- **Twitter / X:** https://x.com/RohanNagaredev
 
 ## Response Time
 
-Alex typically responds to emails within 24–48 hours on business days.
+Rohan typically responds to emails within 24–48 hours on business days.
 
 ## Availability
 

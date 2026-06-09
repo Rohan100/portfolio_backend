@@ -10,6 +10,7 @@ Endpoints:
 All endpoints are rate-limited to 10 requests/minute per IP via slowapi.
 """
 
+import json
 import logging
 from fastapi import APIRouter, HTTPException, Request, status
 from fastapi.responses import StreamingResponse
@@ -108,7 +109,7 @@ async def chat_stream(request: Request, body: ChatRequest) -> StreamingResponse:
     Streaming chat endpoint using Server-Sent Events.
 
     SSE format:
-        data: <token>\\n\\n
+        data: <token>\n\n
 
     The [DONE] sentinel signals end-of-stream to the client.
 
@@ -142,7 +143,8 @@ async def chat_stream(request: Request, body: ChatRequest) -> StreamingResponse:
         try:
             async for chunk in llm.generate_stream(messages):
                 # SSE format: "data: <payload>\n\n"
-                yield f"data: {chunk}\n\n"
+                # JSON-encode the chunk to protect spaces/newlines/quotes from SSE parsing
+                yield f"data: {json.dumps(chunk)}\n\n"
         except Exception as exc:  # pylint: disable=broad-except
             logger.error("Stream error: %s", exc)
             yield f"event: error\ndata: {str(exc)}\n\n"
